@@ -1,0 +1,23 @@
+#menu {text-align:center;
+       width:100%;
+       margin:auto;}
+
+nav a {color:green;
+       text-transform: uppercase;}
+
+a:link,
+a:visited {color:#253419;
+           text-decoration:none;}
+
+a:hover {color:#0f75bb;
+        text-decoration:none;}
+
+ul {list-style-type:none;
+    font-size:18px;}
+
+li {display:inline;
+    font-family:"Times New Romans", Times, serif;
+    padding: 15px;
+    position: relative;
+    background-color:#6e7f80;
+    }
